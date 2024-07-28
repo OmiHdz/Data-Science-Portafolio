@@ -6,7 +6,7 @@ Portafolio de proyectos realizados en bootcamp Data Scientist de Tripleten
 En esta sección se resumen todas las herramientas y tecnologías utilizadas en los proyectos de este portafolio:
 
 - **Lenguajes de Programación:**
-  - **Python:** Lenguaje principal utilizado en la mayoría de los proyectos.
+  - **Python** 
   - **SQL:** Lenguaje de consulta para bases de datos.
 
 - **Bibliotecas y Paquetes de Python:**
