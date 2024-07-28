@@ -1,4 +1,4 @@
-# project_s6
+## Sprint 6 Predicción de ventas en tienda online (Proyecto integrado S1 - S5)
 En este proyecto abordamos el análisis de un dataset de ventas de videojuegos en 3 regiones: Norte América (NA)
 Unión Europea (EU)
 Japón (JP)
