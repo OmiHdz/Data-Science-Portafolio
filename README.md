@@ -45,7 +45,7 @@ Portafolio de proyectos realizados en bootcamp Data Scientist de Tripleten
 
 
 ## Sprint 2 Python Básico
-# Proyecto de Análisis de Datos: Preferencias Musicales en Springfield y Shelbyville
+# [Proyecto de Análisis de Datos: Preferencias Musicales en Springfield y Shelbyville](https://github.com/OmiHdz/Data-Science-Portafolio/blob/5ca4a258d78582a3bf9d0e1c7094194b2fb64659/S2%20Python%20basico%202/P2_Python_basico_2.ipynb)
 
 ## Descripción del Proyecto
 Como analista de datos, tu trabajo consiste en analizar datos para extraer información valiosa y tomar decisiones basadas en ellos. Este proyecto se enfoca en comparar las preferencias musicales de las ciudades de Springfield y Shelbyville, utilizando datos reales de transmisión de música online. El objetivo es probar la hipótesis de que la actividad de los usuarios y las usuarias varía según el día de la semana y dependiendo de la ciudad.
