@@ -40,8 +40,7 @@ En esta sección se resumen todas las herramientas y tecnologías utilizadas en 
   - **SQLite:** Sistema de gestión de bases de datos ligero.
   - **PostgreSQL:** Sistema de gestión de bases de datos relacional.
 
-# Data-Science-Portafolio
-Portafolio de proyectos realizados en bootcamp Data Scientist de Tripleten
+
 
 
 ## Sprint 2 Python Básico
@@ -81,7 +80,7 @@ Probar la hipótesis:
 
 
 ## Sprint 3 Data Wrangling
-# Proyecto de Análisis de Datos: Comportamiento de Compras en una Plataforma de E-commerce
+# [Proyecto de Análisis de Datos: Comportamiento de Compras en una Plataforma de E-commerce](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S3%20Data%20Wrangling/P3_Data_Warangling.ipynb)
 
 ## Descripción del Proyecto
 Este proyecto se enfoca en el análisis de datos de una plataforma de e-commerce para entender los patrones de compra de los clientes. A través del análisis de datos históricos, buscamos identificar tendencias en la hora del día y el día de la semana en que se realizan los pedidos, así como los productos más frecuentes y los patrones de reordenamiento.
@@ -138,7 +137,7 @@ El objetivo principal es descubrir patrones y comportamientos en las compras de 
 
 ## Sprint 4 Análisis estadístico de datos (Modelo de recomendación de planes de tarifas telefónicas)
 
-# Proyecto de Análisis de Datos: Análisis Estadístico de Planes Telefónicos
+# [Proyecto de Análisis de Datos: Análisis Estadístico de Planes Telefónicos](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S4%20An%C3%A1lisis%20estad%C3%ADstico%20de%20datos/P4_Analisis_estadistico.ipynb)
 
 ## Descripción del Proyecto
 El proyecto se centra en el análisis estadístico de dos planes telefónicos ofrecidos por una empresa. El objetivo es determinar la diferencia en los ingresos generados por los planes "Surf" y "Ultimate", así como comparar los ingresos de usuarios en diferentes áreas geográficas (NY-NJ vs. otras áreas). Se utilizan técnicas de análisis de datos y estadística para probar hipótesis sobre la rentabilidad y el comportamiento de los usuarios.
@@ -212,7 +211,7 @@ Se generaron varias visualizaciones para apoyar el análisis:
 
 
 
-## Sprint 5 Herramientas de desarrollo de software: Análisis de Dataset de Ventas de Automóviles en Estados Unidos
+## [Sprint 5 Herramientas de desarrollo de software: Análisis de Dataset de Ventas de Automóviles en Estados Unidos](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S5%20Herramientas%20de%20desarrollo%20de%20Software/notebooks/EDA.ipynb)
 
 En este proyecto abordamos el análisis de un dataset de ventas de automóviles en Estados Unidos.
 
@@ -256,7 +255,7 @@ Para ejecutar el programa, es necesario marcar los checkboxes mostrados en el ta
 
 
 
-## Sprint 6 Predicción de ventas en tienda online (Proyecto integrado S1 - S5)
+## [Sprint 6 Predicción de ventas en tienda online (Proyecto integrado S1 - S5)](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S6%20Proyecto%20integrado%201/Jupyter%20Notebook/project_s6.ipynb)
 
 En este proyecto abordamos el análisis de un dataset de ventas de videojuegos en 3 regiones: Norte América (NA) Unión Europea (EU) Japón (JP)
 
@@ -298,7 +297,7 @@ requirements.txt : Contiene los requisitos mínimos de librerías a instalar par
 
 
 
-## Sprint 7 Recopilación y almacenamiento de datos SQL (Series temporales para predecir el número de pedidos de taxis)
+## [Sprint 7 Recopilación y almacenamiento de datos SQL (Series temporales para predecir el número de pedidos de taxis)](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S7_SQL/P7_Recopilaci%C3%B3n%20y%20almacenamiento%20de%20datos.ipynb)
 
 ## Descripción del Proyecto
 Este proyecto se centra en la recopilación y almacenamiento de datos. Se abordan diferentes técnicas y herramientas para extraer datos de diversas fuentes y almacenarlos de manera eficiente para su posterior análisis.
@@ -329,7 +328,7 @@ El objetivo principal de este proyecto es implementar un flujo de trabajo para l
 
 
 
-## Sprint 8 Introducción al Machine Learning
+## [Sprint 8 Introducción al Machine Learning](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S8%20Introducci%C3%B3n%20al%20Machine%20Learning/P9_Introducci%C3%B3n%20al%20Machine%20Learning.ipynb)
 
 ### Descripción del Proyecto
 
@@ -389,7 +388,7 @@ El objetivo del proyecto es proporcionar una comprensión sólida de los princip
 - **Árboles de Decisión**
 - **K-means (Clustering)**
 
-## Sprint 9 Aprendizaje supervisado
+## [Sprint 9 Aprendizaje supervisado](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S9%20Aprendizaje%20Supervisado/P9_Aprendizaje%20Supervisado.ipynb)
 
 # Descripción del Proyecto
 
@@ -460,7 +459,7 @@ El objetivo principal es construir y evaluar modelos de aprendizaje supervisado 
 - **requirements.txt:** Lista de librerías necesarias para reproducir el análisis.
 
 
-## Sprint 10 Aprendizaje Automático en Negocios
+## [Sprint 10 Aprendizaje Automático en Negocios](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S10%20Aprendizaje%20autom%C3%A1tico%20en%20negocios/P10_Aprendizaje%20Automatico%20negocios.ipynb)
 
 # Proyecto de Optimización de Perforación de Pozos Petrolíferos
 
@@ -544,7 +543,7 @@ El objetivo principal es encontrar las mejores ubicaciones para perforar 200 nue
 - **requirements.txt:** Requisitos mínimos de librerías necesarias para ejecutar el código.
 
 
-## Sprint 11 Algebra lineal
+## [Sprint 11 Algebra lineal](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S11%20Algebra%20lineal/P11_Algebra%20lineal.ipynb)
 
 ### Proyecto de Predicción de Consumo de Energía
 
@@ -585,7 +584,7 @@ El proyecto ha demostrado la viabilidad de utilizar algoritmos de aprendizaje au
 
 
 
-## Sprint 12 Métodos numéricos (Predicción de Precios de Coches)
+## [Sprint 12 Métodos numéricos (Predicción de Precios de Coches)](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S12%20M%C3%A9todos%20Num%C3%A9ricos/P12_Metodos%20num%C3%A9ricos.ipynb)
 
 ### Descripción del Proyecto
 
@@ -645,7 +644,7 @@ Desarrollar un modelo predictivo para estimar el precio de los coches usados, ay
 - **README.md**: Descripción del proyecto, herramientas utilizadas y detalles del análisis.
 
 
-## Sprint 13: Predicción de Demanda de Taxis en la Ciudad de Nueva York
+## [Sprint 13: Predicción de Demanda de Taxis en la Ciudad de Nueva York](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S13%20Series%20temporales/P13_Series%20temporales.ipynb)
 
 ### Descripción del Proyecto
 Este sprint se centra en la predicción de la demanda de taxis en la Ciudad de Nueva York utilizando modelos de Machine Learning. Se desarrolla un modelo para prever el número de pedidos de taxis en la próxima hora, empleando datos históricos y diferentes técnicas de modelado para cumplir con una métrica de RECM en el conjunto de prueba.
@@ -670,7 +669,7 @@ Construir un modelo predictivo que pueda predecir la demanda de taxis con alta p
 - **Análisis de Datos**: Preprocesamiento y análisis de grandes volúmenes de datos históricos.
 
 
-## Sprint 14 Aprendizaje automático para textos : Modelos de Clasificación de reseñas de películas en IMDB
+## [Sprint 14 Aprendizaje automático para textos : Modelos de Clasificación de reseñas de películas en IMDB](https://github.com/OmiHdz/Data-Science-Portafolio/blob/6526e8fe69ec012a8155fcb6195eb5e152f27900/S14%20Aprendizaje%20autom%C3%A1tico%20para%20textos/P14_Aprendizaje%20autom%C3%A1tico%20para%20textos.ipynb)
 
 ### Descripción del Proyecto
 En este sprint, se implementaron y evaluaron múltiples modelos avanzados de clasificación de texto, incluyendo LightGBM, Random Forest, Logistic Regression, y un modelo ensamblado con Voting Classifier. El objetivo principal fue optimizar el rendimiento del modelo en la clasificación de reseñas, utilizando técnicas de procesamiento de texto con spaCy y TF-IDF, así como BERT para la generación de embeddings.
