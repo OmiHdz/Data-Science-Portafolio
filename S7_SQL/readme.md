@@ -26,3 +26,5 @@ El objetivo principal de este proyecto es implementar un flujo de trabajo para l
 - **Almacenamiento de Datos:** Uso de bases de datos SQL para almacenar datos.
 - **Documentación:** Creación de documentación clara y detallada sobre el proceso y resultados del proyecto.
 - **Manejo de Fechas y Tiempos:** Manipulación y análisis de datos temporales.
+
+<!-- TODO esta parte no la entiendo, explicar mejor blah (prueba) -->
